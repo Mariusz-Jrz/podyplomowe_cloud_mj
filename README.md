@@ -1,6 +1,6 @@
 # podyplomowe_cloud_mj
 
-## Tech Stack:
+## Tech Stack / Requirements:
 1. Python 3.8.8
 - awscli==1.19.33
 - boto3==1.17.33
