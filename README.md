@@ -13,4 +13,8 @@
 3. Kinesis Firehose
 4. Glue Catalog
 5. Glue Crawler
-6. AWS Lambda
+6. Lambda
+7. Athena
+
+![obraz](https://user-images.githubusercontent.com/58702289/118319013-743e5d80-b4fa-11eb-89ca-da18c6241fe4.png)
+
