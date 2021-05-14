@@ -33,8 +33,6 @@
 9. Kinesis Analytics - used to query in SQL-like language the data coming directly from Streams <br>
 ![obraz](https://user-images.githubusercontent.com/58702289/118328920-a81f8000-b506-11eb-9f4e-166de4011068.png)
 
-
+## Workflow schema
 ![obraz](https://user-images.githubusercontent.com/58702289/118319013-743e5d80-b4fa-11eb-89ca-da18c6241fe4.png)
 
-## AWS objects:
-1.
