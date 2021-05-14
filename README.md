@@ -2,6 +2,11 @@
 
 ## Tech Stack:
 1. Python 3.8.8
+- awscli==1.19.33
+- boto3==1.17.33
+- configparser==5.0.2
+- awswrangler==2.7.0
+
 2. Anaconda 4.10.1
 3. PyCharm Community Edition 2020.2.3
 4. Terraform 0.15.1
