@@ -30,6 +30,8 @@
 ![obraz](https://user-images.githubusercontent.com/58702289/118325029-24b05f80-b503-11eb-8935-2d24c16cb7a1.png)
 8. CloudWatch - used to generate logs for running services and troubleshoot <br>
 ![obraz](https://user-images.githubusercontent.com/58702289/118325108-44478800-b503-11eb-8a87-b17ada4cc72b.png)
+9. Kinesis Analytics - used to query in SQL-like language the data coming directly from Streams <br>
+![obraz](https://user-images.githubusercontent.com/58702289/118328920-a81f8000-b506-11eb-9f4e-166de4011068.png)
 
 
 ![obraz](https://user-images.githubusercontent.com/58702289/118319013-743e5d80-b4fa-11eb-89ca-da18c6241fe4.png)
